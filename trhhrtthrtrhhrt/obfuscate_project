@@ -7,7 +7,7 @@ set -e
 PROJECT=Demo.xcodeproj
 SCHEME=trhhrtthrtrhhrt
 CONFIGURATION=Release
-SDK=8.0
+SDK=10.0
 
 # Additional build options
 XCODEBUILD_OPTS=""
@@ -37,8 +37,8 @@ pushd $(dirname $0)
 SYMBOLS_FILE="$PWD/symbols.h"
 
 # Clean current workspace
-echo_and_run git reset --hard
-echo_and_run git clean -fdx
+# echo_and_run git reset --hard
+# echo_and_run git clean -fdx
 
 # Just in case: wipe build/
 rm -rf build/

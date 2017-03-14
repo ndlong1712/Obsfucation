@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "8017a7caf86fc779b73e9dc8cc45801b"
+build_time: [542791435, 145700000]
+inputs:
+  "/Users/longnd9/Obsfucation/trhhrtthrtrhhrt/trhhrtthrtrhhrt/ViewController.swift": [9223372036854775807, 0]
+  "/Users/longnd9/Obsfucation/trhhrtthrtrhhrt/trhhrtthrtrhhrt/SuccessViewController.swift": [9223372036854775807, 0]
+  "/Users/longnd9/Obsfucation/trhhrtthrtrhhrt/trhhrtthrtrhhrt/AppDelegate.swift": [9223372036854775807, 0]
